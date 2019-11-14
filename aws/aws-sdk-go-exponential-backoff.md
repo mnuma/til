@@ -27,8 +27,8 @@ https://docs.aws.amazon.com/sdk-for-go/api/aws/#Config.WithMaxRetries
 ```
 
 - デフォルトだとDefaultRetryerがNewされるよう
-https://github.com/aws/aws-sdk-go/blob/master/aws/client/client.go#L65-L70
 
+https://github.com/aws/aws-sdk-go/blob/master/aws/client/client.go#L65-L70
 https://github.com/aws/aws-sdk-go/blob/master/aws/client/default_retryer.go
 
 - デフォルトの設定はこれら
