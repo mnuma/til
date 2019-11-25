@@ -43,9 +43,11 @@ DefaultRetryerMaxNumRetries = 3
 
 - リトライ間隔は指数関数的に増加するので、ベースの間隔をお30msとした場合、3回だと以下のような間隔と予想される。
 
-```
-1:30ms, 2:900ms, 3:27000ms(27s)
-```
+1: 30ms, 2: 60ms, 3: 120ms, 4: 240ms .... 
+
+検証コード:
+https://play.golang.org/p/sY6zqmw3oyx
+
 
 - 実際はJitterが入るので誤差がありえると思われる
 
