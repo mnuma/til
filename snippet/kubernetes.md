@@ -1,8 +1,9 @@
 ### imagePullPolicy
 
-Always: 常にコンテナイメージをPullする
-IfNotPresent: 既にコンテナイメージがあればPullを実行しない
-Never: Pullを実行しない。ローカルにコンテナイメージがあることを期待する
+- Always: 常にコンテナイメージをPullする
+- IfNotPresent: 既にコンテナイメージがあればPullを実行しない
+- Never: Pullを実行しない。ローカルにコンテナイメージがあることを期待する
+
 
 ```
 spec:
