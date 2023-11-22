@@ -20,6 +20,8 @@
 - programming
   - visualstudio
   https://code.visualstudio.com/docs/?dv=osx
+- resize
+  - https://rectangleapp.com/ 
 
 - development
   - docker for mac 
