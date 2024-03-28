@@ -22,7 +22,8 @@
   https://code.visualstudio.com/docs/?dv=osx
 - resize
   - https://rectangleapp.com/ 
-
 - development
   - docker for mac 
   https://docs.docker.com/docker-for-mac/
+- screen shot
+  - https://cleanshot.com/   
