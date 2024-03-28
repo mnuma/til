@@ -17,7 +17,7 @@ import (
 ## データベース構造体の定義
 Database 構造体は、データベース接続とその設定情報を保持します。
 
-```
+```go
 type Database struct {
 	DB   *sql.DB
 	Host string
@@ -27,7 +27,7 @@ type Database struct {
 
 ## データベース初期化関数
 
-```
+```go
 const (
 	dbUser     = "app_admin"
 	dbPassword = "testpassword"
