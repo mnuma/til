@@ -14,9 +14,9 @@
 - language
   - deepl 
   https://www.deepl.com/
-- Utility
-  - spectacle
-  https://www.spectacleapp.com/
+- utility
+  - rectangle
+  https://rectangleapp.com/
 - programming
   - visualstudio
   https://code.visualstudio.com/docs/?dv=osx
@@ -25,5 +25,7 @@
 - development
   - docker for mac 
   https://docs.docker.com/docker-for-mac/
-- screen shot
-  - https://cleanshot.com/   
+- cleanshot x
+  - https://cleanshot.com/
+- Meeting Bar
+  - https://apps.apple.com/jp/app/meetingbar/id1532419400?mt=12 
