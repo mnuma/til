@@ -107,7 +107,7 @@ resource "aws_wafv2_ip_set" "example_allowed_ips" {
   ip_address_version = "IPV4"
 
   addresses = [
-    "34.85.43.93/32", ## Example IP
+    "12.34.56.78/32", ## Example IP
   ]
 }
 
