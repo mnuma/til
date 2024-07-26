@@ -99,7 +99,7 @@ resource "aws_wafv2_web_acl_association" "example_waf_association" {
 - waf
 
 
-```
+```hcl
 resource "aws_wafv2_ip_set" "example_allowed_ips" {
   name               = "${var.env}-allowed-ips-example"
   scope              = "REGIONAL"
